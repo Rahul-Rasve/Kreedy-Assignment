@@ -1,8 +1,9 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:kreedy_assignment/home_view.dart';
-import 'package:kreedy_assignment/register_view.dart';
+
+import 'screens/home_view.dart';
+import 'screens/register_view.dart';
 
 void main() {
   runApp(const MyApp());
